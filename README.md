@@ -1,7 +1,5 @@
 # Curso de Introdução ao C# e .NET - BRINFU - 2023
 
-![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-ASP.NET%20C%23-red)
-
 ### Repositório do Curso de Introdução ao C# e .NET ministrado na 4ª Edição da BRINFU - 2023.
 
 ### Conteúdo
